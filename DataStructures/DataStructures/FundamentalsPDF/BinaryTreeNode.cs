@@ -41,11 +41,6 @@ namespace DataStructures.FundamentalsPDF
         {
             BinaryTreeNode<T> other = (BinaryTreeNode<T>)obj;
             return this.CompareTo(other) == 0;
-        }
-
-        private int CompareTo(BinaryTreeNode<T> other)
-        {
-            return this.value.CompareTo(other.value);
-        }
+        }      
     }
 }
