@@ -5,10 +5,11 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace DataStructures.FundamentalsPDF
-{
+{/*
     class BinarySearchTree<T> where T: IComparable<T>
     {
 
+        
         #region Binary Search Tree Node Implementation
         /// <summary>
         /// Represents a binary tree node
@@ -52,7 +53,7 @@ namespace DataStructures.FundamentalsPDF
             }
         }
         #endregion
-
+        
         private BinaryTreeNode<T> root;
 
         public BinarySearchTree()
@@ -158,5 +159,5 @@ namespace DataStructures.FundamentalsPDF
                 node.leftChild : node.rightChild;
         }
 
-    }
+    }*/
 }
