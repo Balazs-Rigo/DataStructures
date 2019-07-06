@@ -48,6 +48,7 @@
     <Compile Include="FundamentalsPDF\BinarySearchTree.cs" />
     <Compile Include="FundamentalsPDF\BinaryTree.cs" />
     <Compile Include="FundamentalsPDF\Graph.cs" />
+    <Compile Include="Oreilly\LinkedList.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
